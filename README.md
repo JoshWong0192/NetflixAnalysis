@@ -5,6 +5,7 @@ The Jupyter Notebook file: NetflixAnalysis.ipynb
 pdf version (For computers that cannot run Jupyter Notebook): NetflixAnalysis_JoshWong.pdf
 
 Tool Used:
+
 Jupyter Notebook → file saved in .ipynb format
 
 pandas → For displaying the DataFrame.
