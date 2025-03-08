@@ -1,16 +1,19 @@
 In this Jupyter Notebook project, I conducted an in-depth analysis of a Netflix dataset, focusing on data cleaning, generate descriptive statistics and create visualisation to uncover key trends and insights.
 
 Data set: NetflixData.csv
-The Jupyter Notebook file: NetflixAnalysis.ipynb
-pdf version (For computers that cannot run Jupyter Notebook): NetflixAnalysis_JoshWong.pdf
+
+Files:
+- All in the NetflixAnalysis folder
+- The Jupyter Notebook file: NetflixAnalysis.ipynb
+- pdf version (For computers that cannot run Jupyter Notebook): NetflixAnalysis_JoshWong.pdf
 
 Tool Used:
 
 Jupyter Notebook → file saved in .ipynb format
 
-pandas → For displaying the DataFrame.
+Pandas → For displaying the DataFrame.
 
-matplotlib and seaborn → For plotting different graphs to visualize trends in the dataset.
+Matplotlib and seaborn → For plotting different graphs to visualize trends in the dataset.
 
 1. Data Cleaning
 - The raw dataset contained various data quality issues, including: null values, redundant values and incorrect format.
