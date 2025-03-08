@@ -2,6 +2,8 @@ In this Jupyter Notebook project, I conducted an in-depth analysis of a Netflix 
 
 Data set: NetflixData.csv
 
+Language: Python
+
 Files:
 - All in the NetflixAnalysis folder
 - The Jupyter Notebook file: NetflixAnalysis.ipynb
