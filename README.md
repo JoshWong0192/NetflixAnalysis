@@ -58,6 +58,14 @@ matplotlib and seaborn → For plotting different graphs to visualize trends in 
 
 ![image](https://github.com/user-attachments/assets/e9c5e003-8ce4-423c-a846-54efe062e69a)
 
+- The stacked bar chart displays the number of movies per main genre for each year from 2010 to 2024, providing insights into genre trends over time. Each bar represents a year, with different colors stacked to show the count of each genre within that year.
+
+(d). Line Graph
+
+![image](https://github.com/user-attachments/assets/7ab483ad-1ae2-42c0-a48b-d60d22363d6e)
+
+- The line graph visualizes the number of Anime movies released each year from 1981 to 2025, showing trends in the popularity of Anime content over time. Each point on the graph represents the count of Anime movies in a given year, helping to identify growth patterns
+
 
 
 
