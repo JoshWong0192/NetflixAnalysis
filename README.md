@@ -19,6 +19,8 @@ Matplotlib and seaborn → For plotting different graphs to visualize trends in 
 
 Sklearn.linear_model → For Linear Regression statistical test purpose
 
+Sklearn.metrics → Calculate the R Square value for the Regression Equation
+
 Numpy → 
 
 1. Data Cleaning
@@ -78,11 +80,14 @@ Numpy →
 
 3. Statistical Test
 
-![image](https://github.com/user-attachments/assets/e80b5550-5bd3-417a-8712-76c5c04e6e94)
+![image](https://github.com/user-attachments/assets/11a7177c-67e5-428a-adb6-4070528b9355)
+
 
 -  I utilized Linear Regression as a statistical test to examine trends in the Anime genre over the years. The primary objective was to determine whether there is a significant increase or decrease in the number of Anime releases over time and to quantify the rate of change.
 
-🔹 Key Findings:
-The linear regression model identified a trend in the Anime genre’s growth over time.
+ I conducted a linear regression analysis to investigate the relationship between the year and the number of Anime releases. Using Python’s scikit-learn library, I fitted a linear model with Year as the independent variable and Anime Count as the dependent variable. The model generated a regression equation of the form:
 
+Count = Intercept + Slope * Year
+
+- The results were visualized  by plotting the actual data points along with the regression line, and annotated the graph with the regression equation and the R² value (displayed as a percentage). 
 
