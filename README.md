@@ -17,6 +17,10 @@ Pandas → For displaying the DataFrame.
 
 Matplotlib and seaborn → For plotting different graphs to visualize trends in the dataset.
 
+Sklearn.linear_model → For Linear Regression statistical test purpose
+
+Numpy → 
+
 1. Data Cleaning
 - The raw dataset contained various data quality issues, including: null values, redundant values and incorrect format.
 
@@ -72,6 +76,13 @@ Matplotlib and seaborn → For plotting different graphs to visualize trends in 
 
 - The line graph visualizes the number of Anime movies released each year from 1981 to 2025, showing trends in the popularity of Anime content over time. Each point on the graph represents the count of Anime movies in a given year, helping to identify growth patterns
 
+3. Statistical Test
 
+![image](https://github.com/user-attachments/assets/e80b5550-5bd3-417a-8712-76c5c04e6e94)
+
+-  I utilized Linear Regression as a statistical test to examine trends in the Anime genre over the years. The primary objective was to determine whether there is a significant increase or decrease in the number of Anime releases over time and to quantify the rate of change.
+
+🔹 Key Findings:
+The linear regression model identified a trend in the Anime genre’s growth over time.
 
 
